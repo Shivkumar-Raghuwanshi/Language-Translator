@@ -8,7 +8,7 @@ The Language Translator is a powerful web application that leverages the capabil
 ## Watch the video by clicking on the thumbnail below:
 
 [![YouTube Video Thumbnail](https://img.youtube.com/vi/A9YZ08L-uXQ/maxresdefault.jpg)](https://www.youtube.com/embed/A9YZ08L-uXQ?si=KQxWCoXnzPyri4YL)
-[![YouTube Video Thumbnail](https://img.youtube.com/vi/wq-2tVBn8Tg/maxresdefault.jpg)](https://www.youtube.com/embed/wq-2tVBn8Tg?si=x8zVf99MI3mgS-w1)
+
 ### Features
 
 - **Translation**: Users can input text in any language and translate it to their desired language.
