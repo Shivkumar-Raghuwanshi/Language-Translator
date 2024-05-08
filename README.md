@@ -5,6 +5,10 @@ You can access the live application here. https://language-translator-beta.verce
 
 The Language Translator is a powerful web application that leverages the capabilities of Google Translate API-X to translate text from one language to another. This project is built using a robust tech stack including Next.js, TypeScript, Tailwind CSS, Shadcn UI, Framer Motion, and is deployed on Vercel.
 
+## Watch the video by clicking on the thumbnail below:
+
+[![YouTube Video Thumbnail](https://img.youtube.com/vi/A9YZ08L-uXQ/maxresdefault.jpg)](https://www.youtube.com/embed/A9YZ08L-uXQ?si=hinuC6_GocKE-pmf)
+
 ### Features
 
 - **Translation**: Users can input text in any language and translate it to their desired language.
